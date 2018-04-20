@@ -7,7 +7,6 @@ import { Cards } from './cards'
 
 class App extends Component {
 
-
   render() {
     return (
       <div>
@@ -24,7 +23,7 @@ class App extends Component {
         <div className = "center2">
         <Cards/>
       </div>
-        <hr/>
+        <hr/> 
         <div className = "center">
           <footer>© Malumbo Mutale 2018</footer>
       </div>
