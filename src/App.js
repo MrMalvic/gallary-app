@@ -22,8 +22,8 @@ class App extends Component {
         </div>
         <div className = "center2">
         <Cards/>
-      </div>
-        <hr/> 
+      </div> 
+        <hr/>
         <div className = "center">
           <footer>© Malumbo Mutale 2018</footer>
       </div>
