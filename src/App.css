@@ -48,7 +48,7 @@ body{
 }
 
 .head{
-  color: white;
+  color: lightblue;
 }
 
  .resize{
@@ -89,7 +89,7 @@ body{
   transition-duration: 0.5s;
 }
 
-.fas:hover, .fas:active{
+.fas:hover{
   color:red;
   transition-duration: 0.5s;
 }

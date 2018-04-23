@@ -6,19 +6,19 @@ import { Cards } from './cards'
 import { Footer } from './foot'
 
 class App extends Component {
-// constructor(props){
-//   super(props);
-// }
+
+handleClick = () => {
+  alert("Don't worry about the color change... i know you like this picture");
+
+}
 
   render() {
     return (
       <div>
         <Image1/>
         <Heading/>
-        <hr/>
         <Heading2/>
         <Cards/>
-        <hr/>
         <Footer/>
       </div>
     );

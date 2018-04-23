@@ -5,7 +5,8 @@ export class Heading extends Component {
   render() {
     return (
       <div className = "center">
-        <h1 className="head">A Journey of a thousand lines of code...</h1>
+        <h1 className="head">For a Journey of a thousand lines of code...</h1>
+        <hr/>
       </div>
     );
   }
