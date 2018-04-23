@@ -5,6 +5,9 @@ import road2 from './road2.jpg';
 export class Image1 extends Component {
   render() {
     return (
-    <img src={road2} alt='road' className="picture"/>)
+      <div className = "picture" >
+    <img src={road2} alt='road' className="picture"/>
+    </div>
+    )
   }
 }
